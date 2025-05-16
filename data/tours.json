@@ -1,0 +1,81 @@
+[
+    {
+        "id": "d22287-60357P25",
+        "title": "Introductory Walking of Padang",
+        "category": "Culture Adventure",
+        "slug": "introductory-walking-of-padang",
+        "rating": "4.1 (720)",
+        "price": "$52",
+        "location": "Padang, West Sumatra",
+        "image": "https://jurnalpost.com/wp-content/uploads/2023/07/Kota-Padang.webp",
+        "href": "/tours/culture-adventure/introductory-walking-of-padang/d22287-60357P25",
+        "description": "A city cruise on your foot!  Discover all about city cultures and landmarks through a combination of beach and street walking. Along the way you'll get brief interesting information about the local culture, history and etc. Some stops will be made to delve all about Padang, the capital city of West Sumatra. The trip will include tasting the authentic local food.",
+        "overview": "<p>A city cruise on your foot!  Discover all about city cultures and landmarks through a combination of beach and street walking. Along the way you'll get brief interesting information about the local culture, history and etc. Some stops will be made to delve all about Padang, the capital city of West Sumatra. The trip will include tasting the authentic local food.</p><ul role='list' class='list-disc marker:text-black-400 m-0 pl-6'><li class='p-[.3125rem_0_.5rem_.3125rem]'>Open Trip and small group number (max = 10 pax)</li><li class='p-[.3125rem_0_.5rem_.3125rem]'>4-4,5 hours walking tour of Padang important and historical landmark as well as the city culture discovery.</li><li class='p-[.3125rem_0_.5rem_.3125rem]'>Padang Beach “Morning or Sunset” atmosphere (depends on selected schedule).</li><li class='p-[.3125rem_0_.5rem_.3125rem]'>Morning schedule starts at 08.000 am and Sunset schedule starts 03.30 pm.</li><li class='p-[.3125rem_0_.5rem_.3125rem]'>Interesting truth all about the city.</li><li class='p-[.3125rem_0_.5rem_.3125rem]'>This is a private or small group tour that you'll receive personalized attention from your guide.</li><li class='p-[.3125rem_0_.5rem_.3125rem]'>Ideal tour for first-time visitors to Padang or those short on time",
+        "expect": {
+            "desc": "<p class='mb-2'>After hotel pickup, you'll be drop to the tour starting points. Take a walk, where your informative guide leads to share the history, arts, culture, and architecture of this charming city. It begins on Padang Beach to the old town area.</p><p class='mb-2'>The beach offers pedestrian a scenic promenade where interesting the different local activities are the daily ambiance. Learn about Indian Ocean Rim Association Monument and the fishermen district. Along the walk you'll find many coffee shop and street foods as it is a popular place to hang for locals which mostly getting burst at afternoon to the end of the evening.</p><p class='mb-2'>In the city main trading center, a largest bursting market, you will find how local culture and traditions meet. While in another main economic activity center, you will discover how local ethnic and migrated ethnic, run their traditions and activities in respect and peace.</p><p class='mb-2'>Head to know about how fishermen villages near the river develop to be a city from an area called “Padang Old Town”. Then, let's have time for a break and enjoy your lunch or dinner (depends on selected schedule). Later, the guide will inform you about the hotel drop-off and for some who interest to chill out in a café for a drink or coffee, the guide pleasantly accompany (at your own cost) and the hotel drop-off arrangement still free.</p>",
+            "attractions": [
+                {
+                    "number": 1,
+                    "title": "Tower of London",
+                    "description": "Begin your VIP-level experience by witnessing the Opening Ceremony, a storied military ritual that officially opens one of the most famous monuments in London. If you're short on time, select the Morning at the Tower option for a 2.5 hour tour of the Tower's grounds (excluding the Opening Ceremony).",
+                    "duration": "40 minutes",
+                    "admissionTicket": "Included"
+                },
+                {
+                    "number": 2,
+                    "title": "Jewel House",
+                    "description": "After a quick introduction from the Yeoman Warders who guard the palace, you'll stroll straight into the Jewel House and be among the first people to see the Crown Jewels. There are no crowds, so after you guide tells you what to look out for, you can take your time and soak in one of the most dazzling collections of riches in the world.",
+                    "duration": "25 minutes",
+                    "admissionTicket": "Included"
+                },
+                {
+                    "number": 3,
+                    "title": "Tower of London",
+                    "description": "Stroll along the famous Tower Walls, peek inside the refurbished bedroom of Edward I, and say hello to the tower's resident ravens. Your experience ends on a high note as you step into the White Tower for a full tour of a refurbished medieval castle. Before parting ways, you'll receive access to a boat pass for a flexible one-way trip on the best sightseeing river cruises in London. Choose the day and time of your trip and depart from either Tower, London Eye, Westminster, or Greenwich piers.",
+                    "duration": "1 hour 55 minutes",
+                    "admissionTicket": "Included"
+                }
+            ]
+        }
+    },
+    {
+        "id": "d22288-60357P25",
+        "title": "Colosseum Guided Tour",
+        "rating": "4.1 (720)",
+        "price": "$52",
+        "location": "Rome, Italy",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/fa/4c/a0.jpg",
+        "href": "/mti/detail",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": "d22289-60357P25",
+        "title": "Rome: Guided Group Tour of Colosseum, Roman Forum & Palatine Hill",
+        "rating": "4.7 (2,179)",
+        "price": "$55",
+        "location": "Rome, Italy",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/f2/f5/2f.jpg",
+        "href": "/mti/detail",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": "d22290-60357P25",
+        "title": "Wonders of The Colosseum Tour",
+        "rating": "4.1 (1,394)",
+        "price": "$51",
+        "location": "Rome, Italy",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/3c/b1/d4.jpg",
+        "href": "/mti/detail",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": "d22291-60357P25",
+        "title": "VIP, Small-Group Colosseum and Ancient City Tour",
+        "rating": "4.7 (1,282)",
+        "price": "$90",
+        "location": "Rome, Italy",
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/ab/31/dd.jpg",
+        "href": "/mti/detail",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+]
