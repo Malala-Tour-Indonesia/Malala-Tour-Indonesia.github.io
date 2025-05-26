@@ -3,6 +3,7 @@
         "id": "d22287-60357P25",
         "title": "Introductory Walking of Padang",
         "category": "Culture Adventure",
+        "categorySlug": "culture-adventure",
         "slug": "introductory-walking-of-padang",
         "rating": "4.1 (720)",
         "price": "$52",
@@ -120,5 +121,21 @@
                 }
             ]
         }
+    },
+    {
+        "id": "d22287-60357P26",
+        "title": "Student Trip1",
+        "category": "Student Trip",
+        "categorySlug": "student-trip",
+        "slug": "introductory-walking-of-padang",
+        "rating": "4.1 (720)",
+        "price": "$52",
+        "location": "Padang, West Sumatra",
+        "hours": "4 - 4,5 Hours",
+        "image": "https://jurnalpost.com/wp-content/uploads/2023/07/Kota-Padang.webp",
+        "href": "/tours/culture-adventure/introductory-walking-of-padang/d22287-60357P25",
+        "summary": "Student Trip Explore Padang on foot! Discover city landmarks, culture, and history through beach and street walks, with stops for local insights and authentic food tasting.",
+        "description": "A city cruise on your foot!  Discover all about city cultures and landmarks through a combination of beach and street walking. Along the way you'll get brief interesting information about the local culture, history and etc. Some stops will be made to delve all about Padang, the capital city of West Sumatra. The trip will include tasting the authentic local food.",
+        "overview": "<p>A city cruise on your foot!  Discover all about city cultures and landmarks through a combination of beach and street walking. Along the way you'll get brief interesting information about the local culture, history and etc. Some stops will be made to delve all about Padang, the capital city of West Sumatra. The trip will include tasting the authentic local food.</p><ul role='list' class='list-disc marker:text-black-400 m-0 pl-6'><li class='p-[.3125rem_0_.5rem_.3125rem]'>Open Trip and small group number (max = 10 pax)</li><li class='p-[.3125rem_0_.5rem_.3125rem]'>4-4,5 hours walking tour of Padang important and historical landmark as well as the city culture discovery.</li><li class='p-[.3125rem_0_.5rem_.3125rem]'>Padang Beach “Morning or Sunset” atmosphere (depends on selected schedule).</li><li class='p-[.3125rem_0_.5rem_.3125rem]'>Morning schedule starts at 08.000 am and Sunset schedule starts 03.30 pm.</li><li class='p-[.3125rem_0_.5rem_.3125rem]'>Interesting truth all about the city.</li><li class='p-[.3125rem_0_.5rem_.3125rem]'>This is a private or small group tour that you'll receive personalized attention from your guide.</li><li class='p-[.3125rem_0_.5rem_.3125rem]'>Ideal tour for first-time visitors to Padang or those short on time</li></ul>"
     }
 ]
